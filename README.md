@@ -1,3 +1,14 @@
+# INTRODUÇÃO
+O projeto visa auxiliar agricultores de pequeno porte com uma estrutura tecnológica feita a partir de sistema Arduino que conta com sensores de luminosidade, umidade, que possibilitará a criação de sistemas de irrigação e iluminação automáticos com o objetivo de melhorar o crescimento e desenvolvimento da planta de acordo com a necessidade de produtividade do agricultor.
+
+# VERTENTES
+O projeto pode abranger e beneficiar mais áreas além do seu proposito inicial de agricultores de pequeno e médio porte. Nas nossas vidas cotidianas, frequentemente, nos deparamos com constantes queixas de idosos frustrados por não conseguir realizar algumas tarefas do dia a dia principalmente relacionadas às coisas que têm a necessidade de alguma atividade que exige movimentos como, por exemplo, se agachar, ajoelhar, pois encontram dificuldades devido à saúde e a idade mais avançada. Sendo assim, a base da horta faz com que a estufa fique na linha da cintura da pessoa.
+
+# WIREFRAMES
+Ilustração da horta em 2D e 3D (Sem o sistema)
+
+<img src="https://github.com/enzoven/Horta-Inteligente/blob/main/Horta_Inteligente/images/mockups.png?raw=true" height="300">
+
 # COMPONENTES
 ### - Placa Compatível Arduino UNO R3
 Arduino é uma placa de prototipagem eletrônica de código aberto. Inclui hardware e software livre e visa oferecer ferramentas adaptáveis para a criação de projetos interativos de diversas ordens. O microcontrolador é a base inicial para toda a estrutura eletrônica do projeto.

@@ -29,3 +29,6 @@ Uma bomba de água simples e pequena, cabendo na palma da mão, principal distri
 Um display que mostra as informações dos componentes da horta, como por exemplo, se a bomba de água está ligada ou desligada, assim como a luz que acompanha a estufa.
 
 <img src="https://github.com/enzoven/Horta-Inteligente/blob/main/Horta_Inteligente/images/displaylcd.png?raw=true" height="150">
+
+### - Mais sobre
+A horta foi desenvolvida durante as aulas de TCC na Etec Joaquim Ferreira do Amaral (Jahu, SP) por: Ana Júlia Fabretti Sabbadini Francisco, Enzo Vendramini Paggiaro, Giulia Ventura Favaro, Isabel Da Silva Pantalhão, Udymilla Gonçalves Chagas, Victoria Fernanda Guerra Góes

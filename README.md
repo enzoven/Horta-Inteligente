@@ -1,4 +1,4 @@
-# - SOBRE
+# SOBRE
 A horta foi desenvolvida durante as aulas de TCC na Etec Joaquim Ferreira do Amaral (Jahu, SP) por: Ana Júlia Fabretti Sabbadini Francisco, Enzo Vendramini Paggiaro, Giulia Ventura Favaro, Isabel Da Silva Pantalhão, Udymilla Gonçalves Chagas, Victoria Fernanda Guerra Góes. A horta além de ser totalmente autossuficiente, ela também é sustentável por conta da reutilização de materiais para a contrução da estufa, para a base e também por conta que a água irrigada na horta é filtrada por um sistema de filtração feito dentro da terra ultilizando os materiais adequados, assim, a água que irriga a planta volta para o reservatório filtrada, diminuindo a frequência da qual a água necessita ser trocada.
 
 # INTRODUÇÃO

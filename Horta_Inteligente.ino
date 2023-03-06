@@ -26,7 +26,7 @@ void setup() {
 // lcd.setCursor(0, 0); //Coloca o cursor do display na coluna 1 e linha 1
 // lcd.print("HORTA DA ETEC"); //Exibe a mensagem na primeira linha do display
  lcd.setCursor(0, 1); //Coloca o cursor do display na coluna 1 e linha 2
-// lcd.print("SUPERPODEROSAS"); //Exibe a mensagem na segunda linha do displa
+//Exibe a mensagem na segunda linha do display
   pinMode(pinSensorD, INPUT);
   Serial.begin(9600);
 }

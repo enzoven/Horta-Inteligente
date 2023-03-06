@@ -1,4 +1,4 @@
-# 🪴 Sobre a horta
+# 🌱 Sobre a horta
 
 A horta foi desenvolvida durante as aulas de **TCC** na Etec Joaquim Ferreira do Amaral (Jahu, SP) por:
 

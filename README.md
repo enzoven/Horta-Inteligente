@@ -47,7 +47,7 @@ Sendo assim, desde uma **simples planta até uma horta**, o sistema faz com que 
 
 ******************************************************************************Ilustratação em 2D e 3D da estrutura sem o sistema.******************************************************************************
 
-<img src="https://github.com/enzoven/Horta-Inteligente/blob/main/Horta_Inteligente/mockups.png?raw=true" height="300">
+<img src="https://github.com/enzoven/Horta-Inteligente/blob/main/images/mockups.png" height="300">
 
 # 💾 Componentes
 
@@ -55,7 +55,7 @@ Sendo assim, desde uma **simples planta até uma horta**, o sistema faz com que 
 
 **Arduino** é uma placa de **prototipagem eletrônica** de **código aberto**. Inclui **hardware** e **software livre** e visa oferecer **ferramentas adaptáveis** para a criação de **projetos interativos** de diversas ordens. O **microcontrolador** é a base inicial para toda a **estrutura eletrônica** do projeto.
 
-<img src="https://github.com/enzoven/Horta-Inteligente/blob/main/Horta_Inteligente/arduinouno.png?raw=true" height="200">
+<img src="https://github.com/enzoven/Horta-Inteligente/blob/main/images/arduinouno.png" height="200">
 
 - **Módulo Sensor de Umidade De Solo**
 
@@ -65,16 +65,16 @@ O sensor tem a finalidade de **detectar e medir variações de umidade do solo**
 
 Caso o solo esteja **seco** o sensor **mantém a saída em nível alto** e quando o solo estiver **úmido** a saída se **mantém em nível baixo**.
 
-<img src="https://github.com/enzoven/Horta-Inteligente/blob/main/Horta_Inteligente/sensorumidade.png?raw=true" height="200">
+<img src="https://github.com/enzoven/Horta-Inteligente/blob/main/images/sensorumidade.png" height="200">
 
 - **Bomba De Água**
 
 Uma bomba de água simples e pequena, cabendo na palma da mão, principal **distribuidora** de água no sistema de **irrigação** uilizada junto ao sensor de **umidade**, ela é responsável por **puxar** a água até a horta para que a planta seja **irrigada**, utilizando a **pressão**, ela puxa a água que está localizada em um recipiente **apropriado**.
 
-<img src="https://github.com/enzoven/Horta-Inteligente/blob/main/Horta_Inteligente/bombinha.png?raw=true" height="200">
+<img src="https://github.com/enzoven/Horta-Inteligente/blob/main/images/bombinha.png" height="200">
 
 - **Display LCD**
 
 Um **display** que mostra as **informações** dos **componentes** da horta, como por exemplo, se a bomba de água está **ligada** ou **desligada**, assim como a luz que acompanha a estufa.
 
-<img src="https://github.com/enzoven/Horta-Inteligente/blob/main/Horta_Inteligente/displaylcd.png?raw=true" height="200">
+<img src="https://github.com/enzoven/Horta-Inteligente/blob/main/images/displaylcd.png" height="200">
